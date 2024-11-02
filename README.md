@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+# GenAI Projects
+
 [![Know Your Nutrients](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=knowYourNutrients)](https://github.com/dailycisea/knowYourNutrients)
 
 
