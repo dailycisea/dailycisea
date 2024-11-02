@@ -10,6 +10,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+![Know Your Nutrients](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=knowYourNutrients)
+
+
 <!---
 dailycisea/dailycisea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
