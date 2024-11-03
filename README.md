@@ -14,6 +14,10 @@
 
 [![Know Your Nutrients](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=knowYourNutrients)](https://github.com/dailycisea/knowYourNutrients)
 
+# Learning Progress
+
+[![Deep Learning with PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=deep-learning-pytorch)](https://github.com/dailycisea/deep-learning-pytorch)
+
 
 
 <!---
