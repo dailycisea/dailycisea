@@ -13,9 +13,11 @@ I'm also on
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-# GenAI Projects
+# My Projects
 
 [![Know Your Nutrients](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=knowYourNutrients)](https://github.com/dailycisea/knowYourNutrients)
+[![Popular Video Games EDA](https://github-readme-stats.vercel.app/api/pin/?username=dailycisea&repo=Popular-Video-Games-1980-2023-EDA)](https://github.com/dailycisea/Popular-Video-Games-1980-2023-EDA)
+
 
 # Learning Progress
 
