@@ -1,6 +1,9 @@
 - 👀 I’m interested in Developing Solution
 - 🌱 I’m currently learning Gen AI
 
+I'm also on 
+<a href="https://medium.com/@dailycisea" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="dailycisea" /></a>
+
 ![exchange_public_keys](https://github.com/user-attachments/assets/597078e8-84ac-49dd-aa2a-5d96ad06041d)
 
 ### 💻 Tech Stack:
